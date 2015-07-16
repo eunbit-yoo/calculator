@@ -3,7 +3,7 @@
 int add(int, int);
 int sub(int,int);
 int main(int grgc, char* argv[]) {
-	int a, b, c;
+	int a, b, c, d;
 	char op;
 	printf("Please");
 	scanf("%d %c %d", &a, &op, &b);
